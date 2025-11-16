@@ -1,0 +1,6 @@
+order_id,order_date,product_id,quantity,sales,city,rejection_reason
+3,2025-11-16,300,1,9000,Bangalore,Price is less than Actual price
+4,2025-11-16,999,1,1000,Mumbai,Price is not correct
+6,,500,1,10000,Mumbai,Date is not correct
+7,2025-11-16,100,,50000,Mumbai,Quantity is not correct
+8,2025-11-16,200,1,4500,Delhi,City is not correct

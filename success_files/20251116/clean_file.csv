@@ -1,0 +1,4 @@
+order_id,order_date,product_id,quantity,sales,city
+1,2025-11-15,100,2,100000,Mumbai
+2,2025-11-16,200,1,4500,Bangalore
+5,2025-11-16,400,1,25000,Mumbai

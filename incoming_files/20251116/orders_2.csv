@@ -1,0 +1,5 @@
+order_id,product_id,order_date,city,quantity,sales
+5,400,2025-11-16,Mumbai,1,25000
+6,500,,Mumbai,1,10000
+7,100,2025-11-16,Mumbai,,50000
+8,200,2025-11-16,Delhi,1,4500
